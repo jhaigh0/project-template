@@ -152,5 +152,3 @@ dependencies:
   - cartopy
   - scipy
   - gcsfs
-prefix: /home/users/wseviour/miniconda3/envs/CMIP6
-
